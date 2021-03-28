@@ -20,6 +20,4 @@ Added alt text to images for accessibiliy.
 
 Adjusted title to more accuratly reflect the nature of the website.
 
-## Other notes
-
-Last minute adjustments to HTML to comment resulted in unexpected change in location of elements under "menu".  No apparent cause found.  Resolve attempted but functionallity confirmed
+CSS adjusted in connection to adjusted semantics
